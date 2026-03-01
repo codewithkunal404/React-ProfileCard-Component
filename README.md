@@ -2,7 +2,7 @@
 
 A React application featuring interactive profile cards with like functionality and star rating system using React hooks (useState).
 
-![Project Demo](./assets/Screenshot01.png)
+![Card Demo](./assets/Screenshot01.png)
 
 ## Features
 
@@ -106,10 +106,9 @@ npm run dev
 
 ## Screenshots
 
-Add your project screenshots in a `screenshots` folder:
-- `demo.png` - Full application view
-- `like-feature.png` - Like functionality demonstration
-- `star-rating.png` - Star rating interaction
+![Card Demo](./assets/Screenshot01.png)
+
+To add more screenshots, place them in the `assets` folder in your project root.
 
 ## Author
 
