@@ -15,6 +15,7 @@ function App() {
       <p className="read-the-docs">
         Click on Likes & Star Rating Using UseState Hook | Made by
         codewithkunal404
+        
       </p>
     </>
   );
