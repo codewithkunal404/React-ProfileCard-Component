@@ -2,7 +2,7 @@
 
 A React application featuring interactive profile cards with like functionality and star rating system using React hooks (useState).
 
-![Project Demo](./screenshots/demo.png)
+![Project Demo](./assets/Screenshot01.png)
 
 ## Features
 
@@ -23,9 +23,6 @@ A React application featuring interactive profile cards with like functionality 
 - Click to set rating
 - Dynamic color change (gold for selected, gray for unselected)
 - Smooth user experience with hover states
-
-![Like Feature](./screenshots/like-feature.png)
-![Star Rating](./screenshots/star-rating.png)
 
 ## Tech Stack
 
